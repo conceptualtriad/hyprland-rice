@@ -1,4 +1,4 @@
-# Hyprland
+# Hyprland Rice
 
 ## Dependencies
 
@@ -17,9 +17,9 @@
 
   - firefox
 
-- Monospace Nerd Font
+- Nerd Font
 
-  - For example, **MesloLGS NF**
+  - for example, **MesloLGS NF**
 
 ## Configuration
 
