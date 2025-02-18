@@ -21,6 +21,8 @@
 
   - for example, **MesloLGS NF**
 
-## Configuration
+## Installation/Usage
 
-Copy **.config** and **.themes** into **$Home** directory
+1. Install dependencies
+1. Copy **.config** and **.themes** into **$Home** directory
+1. Launch Hyprland
