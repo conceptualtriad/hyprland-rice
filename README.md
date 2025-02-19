@@ -11,7 +11,6 @@
   - hyprpaper
   - waybar
   - pywal
-  - swhkd
 
 - Web browser
 
