@@ -186,7 +186,7 @@ configuration {
 #window {
     background-color: @background;
     border:           0;
-    padding:          420px 600px 420px 600px;
+    padding:          440px 600px 440px 600px;
     width: 100%;
     // 100 or 108, depending on screen resolution
     height: 108%;
