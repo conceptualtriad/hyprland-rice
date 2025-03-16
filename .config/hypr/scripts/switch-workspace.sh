@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 DIRECTION=$1
 WINDOW_NUMBER=$(hyprctl activeworkspace -j | jq '.id')
